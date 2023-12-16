@@ -21,3 +21,4 @@ Thank you for your trust in us, and we appreciate your understanding as we work 
 Sincerely,
 
 Quantonly development team
+quantonly.dev@gmail.com
